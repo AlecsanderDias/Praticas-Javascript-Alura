@@ -1,2 +1,4 @@
 # Praticas-Javascript-Alura
-Práticas dos Cursos da Alura de JavaScript
+
+Práticas dos seguintes cursos da Alura de JavaScript:
+- Javascript: Métodos e Arrays;
